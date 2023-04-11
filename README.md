@@ -1,4 +1,4 @@
-CRUD Operation in Product Management Application
+CRUD Operation in Product Management Application using Springbot and Hibernate for storage
 
 * POST: Creates a new product
 * GET: Retrieve a product
